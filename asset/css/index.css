@@ -1,14 +1,38 @@
+body{
 
-#myVideo {
-    position: fill;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100%;
+  font-family: 'IBM Plex Serif', serif;
+  font-size: 100%;
+}
+
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
   }
 
-#collapsibleNavbar h4{
+.navbar-brand{
 
-    color: white;
-  }
+  font-size: 2.5em;
+
+}
+
+#social a:hover{
+
+  color: grey !important;
+}
+
+p{
+
+  font-size: 0.35em;
+}
+
+.nav-link{
+
+  font-size: 1.2em;
+  color: white !important; 
   
+}
+
