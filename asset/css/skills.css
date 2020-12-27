@@ -1,0 +1,43 @@
+body{
+
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 100%;
+  }
+  
+  video {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    }
+  
+  .navbar-brand{
+  
+    font-size: 2.5em;
+  
+  }
+  
+  #social a:hover{
+  
+    color: gray !important;
+  }
+  
+  p{
+  
+    font-size: 0.35em;
+  }
+  
+  .nav-link{
+  
+    font-size: 1.2em;
+    color: black !important; 
+    
+  }
+.main{
+
+    margin-left: 1%;
+    margin-right: 3%;
+    margin-bottom: 5%;
+}
