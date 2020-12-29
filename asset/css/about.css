@@ -1,6 +1,6 @@
 body{
 
-    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 100%;
   }
   
@@ -15,7 +15,7 @@ body{
   
   .navbar-brand{
   
-    font-size: 2.5em;
+    font-size: 2em;
   
   }
   
@@ -38,9 +38,14 @@ body{
 
   .article{
 
-    margin-left: 15%;
-    margin-right: 10%;
+    margin-left: 20%;
+    margin-right: 15%;
     margin-bottom: 10%;
   }
+
+  #main_links{
+
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
   
-  
+  }
